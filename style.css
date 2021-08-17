@@ -1162,7 +1162,7 @@ li{
     height: 100vh;
     position: relative;
     z-index: 2;
-    background-position:center center;
+   background-position: center center;
 }
 .class-banner {
     background:url(images/world\ map.png);
@@ -1180,7 +1180,7 @@ li{
     background-repeat: no-repeat;
     height: 100vh;
     position: relative;
-    background-poition:center center;
+   background-position: center center;
     z-index: 2;
 }
 .end-form{
